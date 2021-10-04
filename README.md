@@ -58,3 +58,5 @@ emulate hard disk controllers of various types.
 #### **VMDK**
 
 --------------------------------------------
+
+#### **VHD**
