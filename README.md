@@ -84,8 +84,6 @@ every USB device connected to the controller.
 There are four main types of virtual disk images that VirtualBox supports.
 They are as follows:
 
---------------------------------------------
-
 #### **VDI**
 
 VDI is the proprietary and preferred format used by VirtualBox. This
